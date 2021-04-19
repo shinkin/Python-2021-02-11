@@ -19,12 +19,6 @@ def div(*args):
 
     return res
 
-    '''
-    if arg2 != 0:
-        return arg1 / arg2
-    else:
-        print("Wrong number! Devider can't be null")
-    '''
 
 
 print(f'результат  {div()}')
