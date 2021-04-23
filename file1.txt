@@ -1,0 +1,5 @@
+ys
+yes
+no
+word
+hello
